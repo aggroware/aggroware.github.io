@@ -1,0 +1,19 @@
+{
+    "name": "aggroware.github.io",
+    "version": "0.1.0",
+    "private": true,
+    "description": "",
+    "author": "Grady O'Connell",
+    "dependencies": {
+        "grunt": "*",
+        "grunt-contrib-pug": "*",
+        "grunt-contrib-stylus": "*",
+        "grunt-contrib-copy": "*",
+        "grunt-contrib-clean": "*",
+        "grunt-livescript": "*",
+        "snapsvg": "*",
+        "pug": "*",
+        "jquery": "*",
+        "nib": "*"
+    }
+}
